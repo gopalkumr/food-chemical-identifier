@@ -29,6 +29,17 @@ The Gemini API gives you access to the latest generative AI models from Google. 
 `GEMINI_API_KEY="your api key`
 
 
+## screebshot
+
+
+
+![image](https://github.com/gopalkumr/Plant-Disease-Diagnosis-Flask/assets/91552766/57574202-6217-4ea4-bd88-b4c3dd73211b)
+![image](https://github.com/gopalkumr/Plant-Disease-Diagnosis-Flask/assets/91552766/1ffb04dc-39f5-4f84-baee-1d72b1fa5fa6)
+![image](https://github.com/gopalkumr/Plant-Disease-Diagnosis-Flask/assets/91552766/5378e5ab-302d-43ae-8a44-df2e2231aaad)
+
 
 Feel free to open PRs, star the repo to show love. 
 Built with love, in Flutter 💙
+
+
+
