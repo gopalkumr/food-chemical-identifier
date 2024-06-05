@@ -43,3 +43,4 @@ Built with love, in Flutter 💙
 
 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0e57c240-7e52-4eb1-af38-f0b8c77d4aa8/deploy-status)](https://app.netlify.com/sites/dapper-maamoul-80d9af/deploys)
